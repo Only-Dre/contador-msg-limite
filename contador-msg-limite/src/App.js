@@ -1,5 +1,6 @@
 // Importando React e Hooks
 import React, { useState, useEffect } from 'react';
+import './ContadorCurtidas.css';
 
 function ContadorCurtidas() {
   // Estado inicial do contador
